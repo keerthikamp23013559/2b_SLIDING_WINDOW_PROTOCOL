@@ -40,8 +40,8 @@ while True:
   s.send("acknowledgement received from the server".encode())
 ```
 ## OUPUT
-![image](https://github.com/user-attachments/assets/18e2e7cd-adf9-4045-bb33-d651140bd115)
-![image](https://github.com/user-attachments/assets/3be7f3cc-3155-4d49-9bc0-73807dc9a558)
+![Screenshot 2024-10-26 211820](https://github.com/user-attachments/assets/cfb88675-d018-4850-8b1d-ed3ea52e8c86)
+![Screenshot 2024-10-26 211830](https://github.com/user-attachments/assets/d3c0c511-20ff-440d-a7e9-21044dd9577e)
 
 ## RESULT
 Thus, python program to perform sliding window protocol was successfully executed
